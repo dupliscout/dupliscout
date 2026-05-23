@@ -1,3 +1,5 @@
+<img width="698" height="784" alt="image" src="https://github.com/user-attachments/assets/94d53fca-0292-4da6-ace5-7f666348fe60" />
+
 # 🔍 DupliScout - Advanced Media Duplicate Finder & Mover
 
 An advanced, high-performance, hardware-locked desktop software designed for photographers, content creators, and archivists to safely detect and isolate duplicate media files across massive storage systems.
