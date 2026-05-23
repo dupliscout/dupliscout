@@ -1,8 +1,13 @@
 <img width="698" height="784" alt="image" src="https://github.com/user-attachments/assets/94d53fca-0292-4da6-ace5-7f666348fe60" />
 
-# 🔍 DupliScout - Advanced Media Duplicate Finder & Mover
+# 🔍 DupliScout - Ultimate Advanced Media Duplicate Finder & Mover
 
-An advanced, high-performance, hardware-locked desktop software designed for photographers, content creators, and archivists to safely detect and isolate duplicate media files across massive storage systems.
+An advanced, high-performance, hardware-locked desktop software designed for professional photographers, video editors, content creators, and data hoarders to safely detect, isolate, and remove duplicate media files across massive storage systems (HDD, SSD, NAS).
+
+---
+
+### 🌐 Global Search Optimizations (SEO Keywords)
+`Duplicate Photo Finder` • `Duplicate Video Remover` • `Camera RAW Duplicate Finder` • `Storage Cleaner` • `Canon CR2/CR3` • `Nikon NEF/NRW` • `Sony ARW` • `Fujifilm RAF` • `Panasonic RW2` • `Adobe DNG` • `HEIC/WEBP Cleaner` • `4K Video Deduplication` • `MD5/SHA-1 File Checker`
 
 ---
 
@@ -13,7 +18,6 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 - [Français](#-français)
 - [العربية](#-العربية)
 - [简体中文](#-简体中文)
-
 ---
 
 ## 🇬🇧 English
