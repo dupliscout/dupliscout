@@ -5,7 +5,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 ---
 
 ## 🌐 Language Navigation / Dil Seçimi
-- [English (#-english)
+- [English](#-english)
 - [Türkçe](#-türkçe)
 - [Deutsch](#-deutsch)
 - [Français](#-français)
@@ -28,6 +28,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 2. Download the latest `DupliScout.exe`.
 3. Run the application (Portable, no installation required).
 4. The free trial supports up to **500 files**. To unlock the unlimited commercial version, contact us with your **HWID**.
+5. **Lifetime License Price:** Only **10 USDT** (Crypto payment).
 
 📩 **Business & License Inquiry:** dubliscout@gmail.com
 
@@ -46,6 +47,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 2. Güncel `DupliScout.exe` dosyasını bilgisayarınıza indirin.
 3. Programı çalıştırın (Kurulum gerektirmez, taşınabilir mimari).
 4. Ücretsiz deneme sürümü **500 dosyaya** kadar tam destek sunar. Sınırsız ticari lisans almak için programın size verdiği Donanım Kimliğini (HWID) bize e-posta ile iletebilirsiniz.
+5. **Ömür Boyu Lisans Bedeli:** Sadece **10 USDT** (Kripto ödeme).
 
 📩 **İletişim ve Lisans Satın Alma:** dubliscout@gmail.com
 
@@ -64,6 +66,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 2. Laden Sie die neueste `DupliScout.exe` herunter.
 3. Starten Sie die Anwendung (Keine Installation erforderlich).
 4. Die kostenlose Testversion unterstützt bis zu **500 Dateien**. Um die unbegrenzte kommerzielle Version freizuschalten, kontaktieren Sie uns bitte unter Angabe Ihrer **HWID**.
+5. **Lebenslange Lizenz:** Nur **10 USDT** (Krypto-Zahlung).
 
 📩 **Geschäftliche Anfragen & Lizenzen:** dubliscout@gmail.com
 
@@ -82,6 +85,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 2. Téléchargez la dernière version de `DupliScout.exe`.
 3. Lancez l'application (Portable, sans installation).
 4. La version d'essai gratuite prend en charge jusqu'à **500 fichiers**. Pour déverrouiller la version commerciale illimitée, contactez-nous en fournissant votre **HWID**.
+5. **Licence à vie:** Seulement **10 USDT** (Paiement en crypto).
 
 📩 **Demandes Commerciales & Licences:** dubliscout@gmail.com
 
@@ -100,6 +104,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 2. قم بتنزيل أحدث إصدار من `DupliScout.exe`.
 3. قم بتشغيل التطبيق (نسخة محمولة، لا تتطلب التثبيت).
 4. تدعم النسخة التجريبية المجانية ما يصل إلى **500 ملف**. لفتح النسخة التجارية غير المحدودة، يرجى مراسلتنا مع تزويدنا بمعرف الجهاز (**HWID**) الخاص بك.
+5. **سعر الترخيص مدى الحياة:** **10 USDT** فقط (الدفع بالعملات الرقمية).
 
 📩 **للاستفسارات التجارية والتراخيص:** dubliscout@gmail.com
 
@@ -107,7 +112,7 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 
 ## 🇨🇳 简体中文
 
-### 🚀 核心 chart 功能
+### 🚀 核心功能
 - **终极格式支持：** 深度扫描标准格式（`.jpg`、`.mp4`）以及专业相机 **RAW** 文件（`.cr3`、`.nef`、`.arw`、`.dng` 等）。
 - **逐字节精准校验：** 采用安全的加密哈希算法（**MD5 + SHA-1**）识别完全相同的文件，忽略文件名修改。
 - **硬件ID (HWID) 锁机保护：** 每个授权许可针对购买者的系统架构唯一生成，从根本上防止盗版和未经授权的复制。
@@ -118,5 +123,6 @@ An advanced, high-performance, hardware-locked desktop software designed for pho
 2. 下载最新版的 `DupliScout.exe`。
 3. 直接运行该程序（绿色便携版，无需安装）。
 4. 免费试用版最多支持扫描 **500个文件**。如需解锁无限制的商业正式版，请携带您的 **HWID** 与我们联系。
+5. **终身商业授权：** 仅需 **10 USDT**（支持加密货币支付）。
 
 📩 **商务合作与商业授权:** dubliscout@gmail.com
